@@ -1,2 +1,8 @@
+github.com/danilaisaichev/schedule_db_data v0.2.1 h1:EE/ukjlXGCUJ9EcaQORNHnowzViLFpLd6rdd0x7DYqg=
+github.com/danilaisaichev/schedule_db_data v0.2.1/go.mod h1:7rV+422d6GsQX9IejSc//WxJuOpmgoLn1lP19HLGXWc=
+github.com/danilaisaichev/schedule_ical v0.1.0 h1:DAYvcrMI+UHpqjMh6va1nKnl1MODDl/6pucWd5jrOwo=
+github.com/danilaisaichev/schedule_ical v0.1.0/go.mod h1:eIbkQ3YbY3EQctIz4chhDWv1j4PwY/eVR3hnFfikntU=
+github.com/danilaisaichev/schedule_ical v0.2.0 h1:8VBE4yzjAPN250Nc9a+U7sN4yZHA36s+bxdoBX/EugU=
+github.com/danilaisaichev/schedule_ical v0.2.0/go.mod h1:eIbkQ3YbY3EQctIz4chhDWv1j4PwY/eVR3hnFfikntU=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
